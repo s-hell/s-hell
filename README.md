@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @s-hell
-- 👀 I’m interested in linux, python, nerdy computing stuff
-- 🌱 I’m currently learning Ansible
+- 👀 I’m interested in linux, python, ansible, nerdy computing stuff
 - 📫 https://www.pcspinnt.de shell@pcspinnt.de
